@@ -1,8 +1,10 @@
 # Hotel Database Project - SQL Sybase SQL Anywhere 12
 
-![Model](model.png)
-
 Welcome to the Hotel Database Project repository! This repository contains a comprehensive SQL database designed for managing a hotel's operations. The entire database schema was meticulously crafted using Power Designer and is compatible with Sybase SQL Anywhere 12.
+
+More informations under DB model.
+
+![Model](model.png)
 
 ## Project Goals
 - Every guest can make multiple reservations.
