@@ -13,6 +13,12 @@
    - Technologies: SQL, Python (Jupyter Notebook)
    - [Learn More](./Youtube/README.md)
 
+3. [Analyze International Debt Statistics](./Analyze%20International%20Debt%20Statistics/)
+   - Description: The "Analyze International Debt Statistics" project focuses on the analysis of data related to the international debt of developing countries. 
+   - Technologies: SQL
+   - [Learn More](./Analyze%20International%20Debt%20Statistics/README.md)
+   - This project was part of course on DataCamp.com
+
 Feel free to explore the projects.
 
 Happy data management! 🌟🔮✨
